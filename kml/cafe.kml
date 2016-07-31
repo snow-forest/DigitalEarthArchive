@@ -94,7 +94,7 @@
 		<name>cafe</name>
 		<open>1</open>
 		<Placemark>
-			<description><![CDATA[<img src="http://www.kita-colle.com/img/bf336c93afe55d8463cb753ebced825ac0a38c00.jpg"width="600"height="400"/>
+			<description><![CDATA[<img src="http://www.kita-colle.com/img/bf336c93afe55d8463cb753ebced825ac0a38c00.jpg"width="300"height="200"/>
 <br>
 
 幽霊がもてなす居酒屋、遊麗　<br>
@@ -118,7 +118,7 @@
 		</Placemark>
 		<Placemark>
 			<name>舞踏の国のアリス</name>
-			<description><![CDATA[<img src="http://www.alice-restaurant.com/buto/images/img_slide3.jpg"/><br>
+			<description><![CDATA[<img src="http://www.alice-restaurant.com/buto/images/img_slide3.jpg"width="300"height="200"/><br>
 
 アリスシリーズの「舞踏の国のアリス」<br>
 完全世界観重視の店内は、遊園地に来たみたいな気分になります<br>
@@ -141,7 +141,7 @@
 		</Placemark>
 		<Placemark>
 			<name>忍者屋敷</name>
-			<description><![CDATA[<img src="https://cookbiz.jp/img_shop/2202_j5122.jpg"/>
+			<description><![CDATA[<img src="https://cookbiz.jp/img_shop/2202_j5122.jpg"width="300"height="200"/>
 <br>
 
 忍者のおもてなし、創作料理が楽しめる「Ninjya akasaka」<br>
@@ -166,7 +166,7 @@
 		</Placemark>
 		<Placemark>
 			<name>監獄レストラン</name>
-			<description><![CDATA[<img src="http://ponpare.jp/images/coupons/pict/7/94/00001589471530506.jpg"/><br>
+			<description><![CDATA[<img src="http://ponpare.jp/images/coupons/pict/7/94/00001589471530506.jpg"width="300"height="200"/><br>
 
 有名なチェーン店です、監獄レストラン「ザ　ロックアップ」<br>
 逮捕されて、牢屋に閉じ込められてしまいます。<br>
@@ -189,7 +189,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ぐりぐらパンケーキ</name>
-			<description><![CDATA[<img src="http://i.gzn.jp/img/2014/08/19/guri-and-gura-hotcake/top.jpg"width="600"height="400"/><br>
+			<description><![CDATA[<img src="http://i.gzn.jp/img/2014/08/19/guri-and-gura-hotcake/top.jpg"width="300"height="200"/><br>
 
 小さい頃に食べたい！と思ったぐりとぐらのパンケーキが食べられる！「ルサルカ」<br>
 とっても大きくてふわふわでした。<br>
@@ -212,7 +212,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ムーミンカフェ</name>
-			<description><![CDATA[<img src="http://images.huffingtonpost.com/2014-04-08-22.jpg"/><br>
+			<description><![CDATA[<img src="http://images.huffingtonpost.com/2014-04-08-22.jpg"width="300"height="200"/><br>
 ムーミンカフェ「ベネリック」<br>
 ここではムーミンの仲間たちと食事を楽しめます！<br>
  お一人様でも寂しくない！むしろお一人様で行きたい！<br>
@@ -234,7 +234,7 @@
 		</Placemark>
 		<Placemark>
 			<name>駄菓子バー</name>
-			<description><![CDATA[<img src="http://livedoor.blogimg.jp/orangesakana_0207/imgs/4/b/4b5040a6.jpg"width="600" height="400"/>
+			<description><![CDATA[<img src="http://livedoor.blogimg.jp/orangesakana_0207/imgs/4/b/4b5040a6.jpg"width="300"height="200"/>
 いい感じの雰囲気を醸し出します、駄菓子バー！<br>
 大人にはたまらなく懐かしいお菓子がなんと食べ放題！<br>
 くじ引きなども楽しめます！（恐竜の卵が当たるよ！）<br>
@@ -256,7 +256,7 @@
 		</Placemark>
 		<Placemark>
 			<name>文房具カフェ</name>
-			<description><![CDATA[<img src="http://tokyocafe360.jp/wp-content/uploads/2013/05/R0017608.jpg"/>
+			<description><![CDATA[<img src="http://tokyocafe360.jp/wp-content/uploads/2013/05/R0017608.jpg"width="300"height="200"/>
 文房具好きにはたまらない、文房具カフェ！<br>
 お絵描き本とたくさんの文房具があるので、ご飯を待っている間、
 たっぷりお絵描きできます。<br>
@@ -278,7 +278,7 @@
 		</Placemark>
 		<Placemark>
 			<name>盆栽カフェ</name>
-			<description><![CDATA[<img src="https://www.fashion-press.net/img/news/15276/bosai150210_01.jpg"/>
+			<description><![CDATA[<img src="https://www.fashion-press.net/img/news/15276/bosai150210_01.jpg"width="300"height="200"/>
 <br>
 
 こちらも期間限定、盆栽カフェ！<br>
@@ -301,7 +301,7 @@
 		</Placemark>
 		<Placemark>
 			<name>謎解きカフェ</name>
-			<description><![CDATA[<img src="https://retrip.s3.amazonaws.com/article/6374/images/63741d49c217-780c-4a27-84e7-38ded1638c61_m.jpg"/>
+			<description><![CDATA[<img src="https://retrip.s3.amazonaws.com/article/6374/images/63741d49c217-780c-4a27-84e7-38ded1638c61_m.jpg"width="300"height="200"/>
 
 <br>
 謎解きカフェ「謎とも」
@@ -326,7 +326,7 @@
 		</Placemark>
 		<Placemark>
 			<name>探偵のいるバー</name>
-			<description><![CDATA[<img src="http://wacca.tokyo/wp-content/uploads/2014/11/tantei_7.jpg"/>
+			<description><![CDATA[<img src="http://wacca.tokyo/wp-content/uploads/2014/11/tantei_7.jpg"width="300"height="200"/>
 
 <br>
 探偵のいるバー「progress」<br>
@@ -370,7 +370,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ハッカーのいるバー</name>
-			<description><![CDATA[<img src="https://tabelog.ssl.k-img.com/resize/660x370c/restaurant/images/Rvw/28745/28745032.jpg?token=4e73c71&api=v2"/><br>
+			<description><![CDATA[<img src="https://tabelog.ssl.k-img.com/resize/660x370c/restaurant/images/Rvw/28745/28745032.jpg?token=4e73c71&api=v2"width="300"height="200"/><br>
 
 プログラミング好き必見！「Hackers Bar」<br>
 ハッカーがすごい勢いで開発していく様子が目の前で見れたり、プログラミング好きな人と友達になることができます。<br>
@@ -392,7 +392,7 @@
 		</Placemark>
 		<Placemark>
 			<name>マジックバー</name>
-			<description><![CDATA[<img src="http://d3e8ogs60q6bjk.cloudfront.net/image/production/acp/3000005056/7bb37e2d-2346-41c3-baf0-a9bc0a13b721.jpg"/>
+			<description><![CDATA[<img src="http://d3e8ogs60q6bjk.cloudfront.net/image/production/acp/3000005056/7bb37e2d-2346-41c3-baf0-a9bc0a13b721.jpg"width="300"height="200"/>
 
 カウンタータイプのマジックバー「CREA」<br>
 目の前でプロのマジックを見ることができます！<br>
@@ -415,7 +415,7 @@
 		</Placemark>
 		<Placemark>
 			<name>物作りカフェ</name>
-			<description><![CDATA[<img src="http://www.japandesign.ne.jp/wp/wp-content/uploads/2013/08/026.jpg"/>
+			<description><![CDATA[<img src="http://www.japandesign.ne.jp/wp/wp-content/uploads/2013/08/026.jpg"width="300"height="200"/>
 <br>
 クリエイター集合！「FabCafe」<br>
 アクリルプリンタ、食品用レーザーカッター、３Dプリンタ、その他いろいろ！<br>その場で物作りができるカフェです。<br>
@@ -437,7 +437,7 @@
 		</Placemark>
 		<Placemark>
 			<name>お姫様になれるカフェ</name>
-			<description><![CDATA[<img src="http://www.hiraganatimes.com/wp/wp-content/uploads/2013/07/201209-6.jpg"/><br>
+			<description><![CDATA[<img src="http://www.hiraganatimes.com/wp/wp-content/uploads/2013/07/201209-6.jpg"width="300"height="200"/><br>
 
 お姫様になれる！「BUTLERS CAFE」<br>
 イケメンのどこまでもプリンセス扱いしてくれます。<br>
@@ -460,7 +460,7 @@
 		</Placemark>
 		<Placemark>
 			<name>マッチョカフェ</name>
-			<description><![CDATA[<img src="http://www.kita-colle.com/img/IMG_1685.JPG"/><br>
+			<description><![CDATA[<img src="http://www.kita-colle.com/img/IMG_1685.JPG"width="300"height="200"/><br>
 
 期間限定のマッチョカフェ！ボディビルダーが出迎えてくれます。
 コアな感じの女性客がとマッチョがたくさんいるので店内は熱気がやばいです。マッチョ好きじゃなくでも面白いので楽しめます！]]></description>
@@ -481,7 +481,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ハンモックカフェ</name>
-			<description><![CDATA[<img src="https://tabelog.ssl.k-img.com/restaurant/images/Rvw/1051/640x640_rect_1051787.jpg"/>
+			<description><![CDATA[<img src="https://tabelog.ssl.k-img.com/restaurant/images/Rvw/1051/640x640_rect_1051787.jpg"width="300"height="200"/>
 <br>
 
 ゆらゆら癒される、ハンモックカフェ！「mahika mano」<br>
@@ -504,7 +504,7 @@
 		</Placemark>
 		<Placemark>
 			<name>絵本のカフェ</name>
-			<description><![CDATA[<img src="http://archive.foodrink.co.jp/backnumber/201012/morigirl1.jpg"/>
+			<description><![CDATA[<img src="http://archive.foodrink.co.jp/backnumber/201012/morigirl1.jpg"width="300"height="200"/>
 <br>
 
 身長130cmの女の子のためのお家カフェ！「HATTINATT」<br>
@@ -527,7 +527,7 @@
 		</Placemark>
 		<Placemark>
 			<name>映画のカクテルバー</name>
-			<description><![CDATA[<img src="http://bravo.mery.jp/lists/173681/2074146.jpg/original?1446952902"/>
+			<description><![CDATA[<img src="http://bravo.mery.jp/lists/173681/2074146.jpg/original?1446952902"width="300"height="200"/>
 
 映画好きにはたまらない「８月の鯨」<br>
 映画を名前をいうと、それをイメージしたカクテルを作ってくれます。<br>メニューに乗ってない映画でもOK!どんなカクテルが出てくるかわからないので、すごくワクワクします！！<br>
@@ -549,7 +549,7 @@
 		</Placemark>
 		<Placemark>
 			<name>椅子カフェ</name>
-			<description><![CDATA[<img src="https://tabelog.ssl.k-img.com/resize/660x370c/restaurant/images/Rvw/49873/49873238.jpg?token=3b0559a&api=v2"/>
+			<description><![CDATA[<img src="https://tabelog.ssl.k-img.com/resize/660x370c/restaurant/images/Rvw/49873/49873238.jpg?token=3b0559a&api=v2"width="300"height="200"/>
 
 椅子好きの主人が集めた、デザイナーズチェアがたくさん！「seat mania」<br>
 空いてればどの椅子に座ってもOKです。<br>
