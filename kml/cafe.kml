@@ -94,7 +94,7 @@
 		<name>cafe</name>
 		<open>1</open>
 		<Placemark>
-			<description><![CDATA[<img src="http://www.kita-colle.com/img/bf336c93afe55d8463cb753ebced825ac0a38c00.jpg"width="600"height="400"/>
+			<description><![CDATA[<img src="http://www.kita-colle.com/img/bf336c93afe55d8463cb753ebced825ac0a38c00.jpg"/>
 <br>
 
 幽霊がもてなす居酒屋、遊麗　<br>
@@ -189,7 +189,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ぐりぐらパンケーキ</name>
-			<description><![CDATA[<img src="http://i.gzn.jp/img/2014/08/19/guri-and-gura-hotcake/top.jpg"width="600"height="400"/><br>
+			<description><![CDATA[<img src="http://i.gzn.jp/img/2014/08/19/guri-and-gura-hotcake/top.jpg"/><br>
 
 小さい頃に食べたい！と思ったぐりとぐらのパンケーキが食べられる！「ルサルカ」<br>
 とっても大きくてふわふわでした。<br>
@@ -234,7 +234,7 @@
 		</Placemark>
 		<Placemark>
 			<name>駄菓子バー</name>
-			<description><![CDATA[<img src="http://livedoor.blogimg.jp/orangesakana_0207/imgs/4/b/4b5040a6.jpg"width="600" height="400"/>
+			<description><![CDATA[<img src="http://livedoor.blogimg.jp/orangesakana_0207/imgs/4/b/4b5040a6.jpg"/>
 いい感じの雰囲気を醸し出します、駄菓子バー！<br>
 大人にはたまらなく懐かしいお菓子がなんと食べ放題！<br>
 くじ引きなども楽しめます！（恐竜の卵が当たるよ！）<br>
