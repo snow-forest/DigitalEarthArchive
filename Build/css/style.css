@@ -52,14 +52,14 @@ a:hover{
 }
 
 .cesium-infoBox-iframe {
-	width:320px;
+	width:600px;
 	overflow:hidden;
 	padding:0px;
 	margin:0px;
 }
 
 .cesium-infoBox {
-	width:320px;
+	width:600px;
 	max-height: 505px;
 	top: 100px;
 	overflow:hidden;
@@ -141,7 +141,7 @@ a:hover{
 }
 
 #setsumei img{
-	width: 50%;
+	width: 100%;
 }
 
 #slide_menu{
@@ -231,7 +231,7 @@ a:hover{
 		width: 36%;
 	}*/
 	#setsumei img {
-		width: 50%;
+		width: 100%;
 	}
 
 }
@@ -240,7 +240,7 @@ a:hover{
 	#logo {
     top: 15px;
     left: 20px;
-    width: 50%;
+    width: 100%;
     bottom: auto;
     right: auto;
 }
